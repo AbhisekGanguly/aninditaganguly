@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="https://github.com/AbhisekGanguly/aninditaganguly/blob/ff7fae7d6373ec180bde6d0815ae503170800662/files/pdf/AninditaG_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="https://drive.google.com/file/d/1ybW0h_Z6BxEq2PAaNW9-BimgbHo5INYM/view" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](https://github.com/AbhisekGanguly/aninditaganguly/blob/ff7fae7d6373ec180bde6d0815ae503170800662/files/pdf/AninditaG_CV.pdf).
+You can download a PDF copy of my CV [here](https://drive.google.com/file/d/1ybW0h_Z6BxEq2PAaNW9-BimgbHo5INYM/view).
