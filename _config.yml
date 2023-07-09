@@ -79,7 +79,7 @@ analytics:
   google:
     tracking_id          : 
   goatcounter:
-    code		 : jayrobwilliams
+    code		 : 
 
 
 # Site Author
@@ -90,8 +90,8 @@ author:
   location         :
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  orcid            : "https://orcid.org/0000-0002-2880-2510"
+  googlescholar    : "https://scholar.google.com/citations?user=c_9bpWEAAAAJ&hl=en&oi=ao"
   email            : "anin11593@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
